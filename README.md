@@ -116,8 +116,6 @@ This proposal builds on ideas presented in the [Knowledge Currency Patent (US113
 
 ## 🚀 About the Author
 
-**@rohanvenkatesha**, a graduate student at Western Michigan University, specializes in applying AI and blockchain to solve real-world challenges. He is passionate about creating scalable, impactful solutions for modern business needs.  
+**@rohanvenkatesha**, I am graduate student at Western Michigan University, specializing in applying AI and blockchain to solve real-world challenges. He is passionate about creating scalable, impactful solutions for modern business needs.  
 
 ---
-
-Do let me know if you'd like further additions, such as a visualization of the tech stack or details about the implementation phases!
